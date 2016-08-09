@@ -1,0 +1,16 @@
+Django==1.9
+dj-database-url
+dj-static
+django-debug-toolbar
+django-extensions
+django-toolbelt
+docopt
+gunicorn
+pep8
+Pillow
+psycopg2
+requests
+six
+smtpapi
+sqlparse
+static3
